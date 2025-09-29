@@ -30,11 +30,11 @@ This repository highlights my projects in robotics, embedded systems, and mechan
 - **Tools**: MATLAB, Simulink  
 - **Highlights**: Compared input shaping vs. model reference control on nonlinear pendulum dynamics.
 
-- ## 🖇️ CAD Models
+- ### 🖇️ CAD Models
 - [Gearbox Assembly](./cad-projects/gearbox)
 - [Manipulator Linkages](./cad-projects/linkages)
 
-- ## 📬 Contact
+- ### 📬 Contact
 - 📧 Email: sameer.panghal23@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/sameerpanghal)
 
