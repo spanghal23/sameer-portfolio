@@ -9,13 +9,13 @@ This repository highlights my projects in robotics, embedded systems, and mechan
 - [Hand Controlled Ball Levitation Project](./4012)
 - [Collaborative Robot EOAT](./vitesco)
 
-- ## 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 Master's student in Mechanical Engineering (Controls & Automation) at Georgia Tech  
 - 🤖 Interested in robotics, control systems, and embedded hardware design  
 - 🛠️ Experienced with MATLAB/Simulink, Arduino, Python, and CAD tools (SolidWorks, Fusion 360)  
 - 🌱 Currently learning advanced control techniques and embedded systems design for robotics applications
 
-- ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### [Hand Controlled Ball Levitation](./4012)
 - **Focus**: Modeled and simulated a 2-DOF robotic arm with feedback control.  
@@ -30,11 +30,13 @@ This repository highlights my projects in robotics, embedded systems, and mechan
 - **Tools**: MATLAB, Simulink  
 - **Highlights**: Compared input shaping vs. model reference control on nonlinear pendulum dynamics.
 
-- ### 🖇️ CAD Models
+### 🖇️ CAD Models
 - [Gearbox Assembly](./cad-projects/gearbox)
 - [Manipulator Linkages](./cad-projects/linkages)
 
-- ### 📬 Contact
+---
+
+### 📬 Contact
 - 📧 Email: sameer.panghal23@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/sameerpanghal)
 
